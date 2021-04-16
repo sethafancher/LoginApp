@@ -28,5 +28,5 @@ Existing Username/Password pairs are as follows:
 ```
 
 ### Process
-Firstly, I implemented a few common strings in the strings.xml file. Then, I implemented a Linear Layout Card widget with some TextViews in the activity_main.xml file, and formatted everything how I saw fit. Next, I added two EditTexts for the Username and Password input, and formatted them nicely. I then added a button, where I would edit an OnClick functionality to check for a Username and Password in theMainActivity.java file. I used a hash map to store some default Usernames and Passwords, and a small message is displayed depending on the situation.
+Firstly, I implemented a few common strings in the strings.xml file. Then, I implemented a Linear Layout Card widget with some TextViews in the activity_main.xml file, and formatted everything how I saw fit. Next, I added two EditTexts for the Username and Password input, and formatted them nicely. I then added a button, where I would edit an OnClick functionality to check the EditTexts for a Username and Password in theMainActivity.java file. I used a hash map to store some default Usernames and Passwords, and a small message is displayed depending on if a pair exits or not.
 
