@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Login Screen for Conquer Application</string>
+    <string name="title">Welcome!</string>
+    <string name="subTitle">Please login to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
